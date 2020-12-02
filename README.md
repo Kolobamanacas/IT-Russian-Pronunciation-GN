@@ -33,7 +33,7 @@
 | Bandwidth | б**э**ндуит |
 | Backbone | б**э**кбон |
 | Bit | бит |
-| Bluetooth | бл**у**тус |
+| Bluetooth | блут**у**с |
 | Bookmark | б**у**кмарк |
 | Bool | бул |
 | Boolean | б**у**лиэн |
