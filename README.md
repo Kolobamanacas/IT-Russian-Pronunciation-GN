@@ -10,11 +10,13 @@
 | ActiveX | **э**ктив экс |
 | Adobe | эд**о**би |
 | Address | эдр**э**с |
+| Ajax | **э**йджэкс |
 | Alias | **э**лиэс |
 | Amazon | **э**мэзон |
 | And | энд |
 | Anonymous | ан**о**нэмэс |
 | Anti- | **э**нти |
+| API | эй пи ай |
 | Apple | эпл |
 | Applet | **э**плит |
 | Application | эплик**е**йшн |
