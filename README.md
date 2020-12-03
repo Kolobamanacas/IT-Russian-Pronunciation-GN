@@ -173,7 +173,7 @@
 | Password | п**э**суорд |
 | Path | пэс |
 | Pending | п**э**ндинг |
-| Permanent | п**э**рмэнэнт |
+| Permanent | п**ё**рмэнэнт |
 | Plan | плэн |
 | Plus | плас |
 | Point | п**о**инт |
