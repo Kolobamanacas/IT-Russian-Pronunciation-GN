@@ -56,7 +56,7 @@
 | Cache | кэш |
 | Call | кол |
 | Case | кейс |
-| Catch | кэтч |
+| Catch | кэч |
 | Class | клэс |
 | Cluster | кл**а**стэр |
 | Clause | клоз |
