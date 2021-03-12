@@ -60,7 +60,7 @@
 | Class | клэс |
 | Cluster | кл**а**стэр |
 | Clause | клоз |
-| Closure | сл**о**ужер |
+| Closure | кл**о**ужер |
 | Char | чар |
 | Character | к**э**риктэр |
 | Color | к**а**лр|
