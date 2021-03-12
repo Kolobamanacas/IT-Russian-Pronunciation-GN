@@ -44,7 +44,7 @@
 | Breakpoint | брэйк-п**о**инт |
 | Bridge | бридж |
 | Broadband | бр**о**дбэнд |
-| Browser | бр**о**усэр |
+| Browser | бр**а**узэр |
 | Bruteforce | брутф**о**рс |
 | Buffer | б**а**фэр |
 | Build | билд |
