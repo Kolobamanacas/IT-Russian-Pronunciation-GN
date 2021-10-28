@@ -66,6 +66,7 @@
 | Character | к**э**риктэр |
 | Color | к**а**лр|
 | Command | кэм**э**нд |
+| Commit | ком**и**т |
 | Connection | кон**э**кшн |
 | Const | конст |
 | Continue | конт**и**нью |
@@ -83,6 +84,7 @@
 | Dir | дир |
 | Directive | дир**е**ктив |
 | Directory | дайр**э**ктэри |
+| Dispatch | дисп**э**тч |
 | Do | ду |
 | FTP | эф ти пи |
 | Else | элс |
@@ -192,6 +194,8 @@
 | Reduce | редъ**ю**с |
 | Redux | ред**а**кс |
 | Reference | р'еференс |
+| Rename | рин**э**йм |
+| Restore | рист**о**р |
 | Return | рет'ёрн |
 | Root | рут |
 | Route | рут (р**а**ут) |
@@ -216,6 +220,7 @@
 | Space | спэйс |
 | Spread | спрэд |
 | Spreadsheet | спрэд-щ**и**т |
+| Store | стор |
 | String | стринг |
 | Substtring | сабстр**и**нг |
 | Sudo | суд**у** |
