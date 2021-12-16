@@ -33,6 +33,7 @@
 | Bind | байнд |
 | Bandwidth | б**э**ндуит |
 | Backbone | б**э**кбон |
+| Backend | б**э**кэнд |
 | Bit | бит |
 | Bluetooth | блут**у**с |
 | Bookmark | б**у**кмарк |
@@ -114,6 +115,7 @@
 | File | файл |
 | Final | ф**а**йнал |
 | Finally | ф**а**йнали |
+| Frontend | фр**о**нтэнд |
 | Function | фанкшн |
 | Generic | джэн**э**рик |
 | Git | гит |
